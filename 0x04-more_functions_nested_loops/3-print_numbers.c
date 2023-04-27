@@ -2,14 +2,13 @@
 
 /**
 *print_numbers - print 0123456789
-* owned by Bwave ICT
+*owned by Bwave ICT
 *Return: void
 */
 
 void print_numbers(void)
 {
 	char c;
-	c = 0;
 
 	for (c = '0'; c <= '9'; c++)
 	{
